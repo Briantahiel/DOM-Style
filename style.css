@@ -1,0 +1,36 @@
+.titulo{
+    color: greenyellow;
+}
+/*Estilos para Base*/
+.backgroundBase{
+    background-color: wheat;
+}
+
+.trBase{
+    background-color: rgb(236, 236, 104);
+}
+
+/*Estilos Diurnos*/
+.backgroundDiurno{
+    background-color: aquamarine;
+}
+
+.trDiurnoOscuro{
+    background-color: darksalmon;
+}
+
+.trDiurnoClaro{
+    background-color: rgb(182, 65, 65);
+}
+
+/*Estilos Nocturno*/
+
+.backgroundNocturno{
+    background-color: darkcyan;
+}
+.trNocturnoClaro{
+    background-color: gray;
+}
+.trNocturnoOscuro{
+    background-color: blue;
+}
